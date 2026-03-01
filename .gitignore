@@ -1,0 +1,9 @@
+.env
+*.csv
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+bloom_config_backup*.json
+trades_*.csv
+bloom_*.log
